@@ -1,6 +1,4 @@
 const BlogList = ({ blogs, title, handleDelete }) => {
-  //const blogs = this.props.blogs;
-  //const title = this.props.title;
   return (
     <div className="blog-list">
       <h2>{title}</h2>
