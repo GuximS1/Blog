@@ -1,1 +1,1 @@
-Blog Project with React.
+Blog Test Project built with React.
