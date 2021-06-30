@@ -100,3 +100,21 @@
   border-radius: 8px;
   cursor: pointer;
 }
+.blog-details button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.deletebtn {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  float: right;
+  margin-top: -45px;
+}
